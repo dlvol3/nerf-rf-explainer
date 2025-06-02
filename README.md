@@ -108,16 +108,14 @@ The `results` dictionary contains:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 NERF/
 ├── nerf/
 │   └── core.py            # main implementation
 ├── examples/              # real data scripts **Most Inputs are not available, now serve as a legacy archived references**
-├── data/                  # optional demo datasets
 ├── output/                # auto-generated results
 ├── setup.py
-├── requirements.txt
 └── README.md
 ```
 
