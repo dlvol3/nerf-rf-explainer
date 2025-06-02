@@ -1,9 +1,9 @@
 .venv/
+tests/
+toolbox/
 __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
 .vscode/
 .idea/
-test/
-toolbox/
