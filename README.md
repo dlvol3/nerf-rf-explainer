@@ -11,7 +11,7 @@
 NERF (Network Extraction via Random Forests) is a model-agnostic interpretability framework designed to extract feature interaction networks from scikit-learn's `RandomForestClassifier` models. It transforms local decision paths into pairwise feature interactions, quantifies their edge intensities, and builds interpretable sample-specific subgraphs.
 
 The goal is to understand **how features jointly contribute** to predictions — especially in biological datasets, where understanding *combinatorial effects* (e.g., gene-gene interactions) is critical.
-![NERF Design](docs/NERF_design.png)
+![NERF Design](docs/NERF design.png)
 ---
 
 ##  Key Ideas
