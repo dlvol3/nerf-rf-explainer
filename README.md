@@ -41,9 +41,8 @@ The goal is to understand **how features jointly contribute** to predictions —
 NERF is a Python module. To install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install nerf
 ```
-
 If you're working locally:
 ```bash
 pip install -e .
@@ -115,7 +114,7 @@ The `results` dictionary contains:
 NERF/
 ├── nerf/
 │   └── core.py            # main implementation
-├── examples/              # real data scripts ** Most Inputs are not available, now serve as a legacy archived references
+├── examples/              # real data scripts **Most Inputs are not available, now serve as a legacy archived references**
 ├── data/                  # optional demo datasets
 ├── output/                # auto-generated results
 ├── setup.py
